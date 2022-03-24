@@ -6,6 +6,7 @@ Lindsey R. Burcham1#, Zachary M. Burcham2#, Madeline S. Akbari1, Jessica L. Metc
 2 Department of Animal Science, Colorado State University, Fort Collins, CO, USA
 
 *corresponding author, Kelly S. Doran, kelly.doran@cuanschutz.edu
+
 #authors contributed equally to this work
 
 
