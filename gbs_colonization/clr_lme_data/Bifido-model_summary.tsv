@@ -1,0 +1,13 @@
+	model summary
+Model:	MixedLM
+No. Observations:	176
+No. Groups:	76
+Min. group size:	1
+Max. group size:	4
+Mean group size:	2.3
+Dependent Variable:	k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Bifidobacteriales;f__Bifidobacteriaceae;g__Bifidobacterium;s__pseudolongum
+Method:	REML
+Scale:	0.3415
+Log-Likelihood:	-166.1037
+Converged:	Yes
+	

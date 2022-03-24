@@ -1,0 +1,13 @@
+	model summary
+Model:	MixedLM
+No. Observations:	176
+No. Groups:	76
+Min. group size:	1
+Max. group size:	4
+Mean group size:	2.3
+Dependent Variable:	k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;__
+Method:	REML
+Scale:	4.7858
+Log-Likelihood:	-412.1610
+Converged:	Yes
+	

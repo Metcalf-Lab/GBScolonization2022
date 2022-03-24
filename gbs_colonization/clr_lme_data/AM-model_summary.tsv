@@ -1,0 +1,13 @@
+	model summary
+Model:	MixedLM
+No. Observations:	176
+No. Groups:	76
+Min. group size:	1
+Max. group size:	4
+Mean group size:	2.3
+Dependent Variable:	k__Bacteria;p__Verrucomicrobia;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Verrucomicrobiaceae;g__Akkermansia;s__muciniphila
+Method:	REML
+Scale:	2.1714
+Log-Likelihood:	-325.7747
+Converged:	Yes
+	

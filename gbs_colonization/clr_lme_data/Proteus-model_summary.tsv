@@ -1,0 +1,13 @@
+	model summary
+Model:	MixedLM
+No. Observations:	176
+No. Groups:	76
+Min. group size:	1
+Max. group size:	4
+Mean group size:	2.3
+Dependent Variable:	k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales;f__Enterobacteriaceae;g__Proteus;s__
+Method:	REML
+Scale:	5.4117
+Log-Likelihood:	-402.8647
+Converged:	Yes
+	

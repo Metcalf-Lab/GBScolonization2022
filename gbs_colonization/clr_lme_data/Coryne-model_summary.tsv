@@ -1,0 +1,13 @@
+	model summary
+Model:	MixedLM
+No. Observations:	176
+No. Groups:	76
+Min. group size:	1
+Max. group size:	4
+Mean group size:	2.3
+Dependent Variable:	k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Actinomycetales;f__Corynebacteriaceae;g__Corynebacterium;s__
+Method:	REML
+Scale:	4.1020
+Log-Likelihood:	-388.1567
+Converged:	Yes
+	
